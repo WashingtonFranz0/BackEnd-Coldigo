@@ -42,3 +42,13 @@ nav a{
 	text-decoration: none;
 	text-align: center;
 }
+nav .opcao{
+	float: left;
+	width: 19%;
+	background-color: #005f89;
+	margin: 0 0.5%;
+	font-size: 16px;
+}
+nav .opcao:hover{
+	background-color: #83afd3;
+}
