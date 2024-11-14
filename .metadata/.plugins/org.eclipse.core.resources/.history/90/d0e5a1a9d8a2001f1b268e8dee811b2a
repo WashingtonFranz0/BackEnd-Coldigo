@@ -26,19 +26,3 @@ header img{
 	font-size: 40px;
 	color: #ffffff; 
 }
-
-/*****     Menu     *****/
-nav{
-	clear: both;
-	width: 70%;
-	display: inline-block;
-	margin: 0px auto;
-	/*saiu o height*/
-}
-nav a{
-	color: white;
-	font-weight: bold;
-	letter-spacing: 1px;
-	text-decoration: none;
-	text-align: center;
-}
