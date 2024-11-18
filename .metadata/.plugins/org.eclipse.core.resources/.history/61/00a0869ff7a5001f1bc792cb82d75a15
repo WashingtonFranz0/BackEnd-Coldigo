@@ -3,7 +3,7 @@
 <nav>
 	<div class="opcao dropdown">
 		<a href="#">
-			<div class="dropbtn">Registros</div>
+			<div class="dropdown"></div>
 		</a>
 		<div class="dropdown-content">
 			<a href="#">Marca</a>

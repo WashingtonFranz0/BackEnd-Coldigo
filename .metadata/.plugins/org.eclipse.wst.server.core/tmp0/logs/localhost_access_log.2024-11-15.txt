@@ -1,0 +1,17 @@
+127.0.0.1 - - [15/Nov/2024:06:26:12 -0300] "GET / HTTP/1.1" 404 764
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/js/site.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/css/site.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/imgs/geladeira2.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/imgs/geladeira1.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/pages/site/general/menu.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/pages/site/general/cabecalho.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/pages/site/general/rodape.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /favicon.ico HTTP/1.1" 404 775
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:12 -0300] "GET /ProjetoTrilhaWeb/imgs/logo.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:23 -0300] "GET /ProjetoTrilhaWeb/pages/admin HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:23 -0300] "GET /ProjetoTrilhaWeb/pages/admin/ HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:23 -0300] "GET /ProjetoTrilhaWeb/js/admin.js HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:23 -0300] "GET /ProjetoTrilhaWeb/css/admin.css HTTP/1.1" 200 754
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:23 -0300] "GET /ProjetoTrilhaWeb/pages/admin/general/footer.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [15/Nov/2024:06:26:23 -0300] "GET /ProjetoTrilhaWeb/pages/admin/general/header.html HTTP/1.1" 200 919

@@ -1,3 +1,4 @@
+
 @charset "UTF-8";
 
 /* Configuração geral do corpo da página */
@@ -22,6 +23,13 @@ header{
 }
 header img{
 	float: left;
+	height: 100px;
+	width: 100px;
+	margin: 10px;
+}
+
+header h1{
+	float: left;
 	margin: 30px 0 15px 30px;
 	font-size: 40px;
 	color: #ffffff; 
@@ -42,3 +50,59 @@ nav a{
 	text-decoration: none;
 	text-align: center;
 }
+nav .opcao{
+	float: left;
+	width: 19%;
+	background-color: #005f89;
+	margin: 0 0.5%;
+	font-size: 16px;
+}
+nav .opcao:hover{
+	background-color: #83afd3;
+}
+
+.dropdown {
+	position: relative;
+	display: inline-block;
+}
+
+/* Conteúdo dropdown (oculto por padrão) */
+.dropdown-content {
+	display: none;
+	position: absolute;
+	background-color: #005f89;
+	z-index: 1;
+	width: 100%;
+}
+/* Links dentro do dropdown */
+.dropdown-content a {
+	display: block;
+}
+
+/* Mudar cor dos links dropdown ao passar mouse */
+.dropdown-content a:hover {
+	background-color: #83afd3;
+}
+
+/* Mostrar o menu dropdown menu ao passar mouse */
+.dropdown:hover .dropdown-content {
+	display: block;
+}
+
+/*****     Seção     *****/
+section{
+	clear: both;
+	min-height: 460px;
+	width: 100%;
+	margin-top:0px;
+}
+
+/*****     Rodapé     *****/
+footer{
+	background-color: #005f89;
+	color: #fff;
+	text-align:center;
+	padding: 10px;
+}
+
+
