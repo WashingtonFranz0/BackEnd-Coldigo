@@ -1,6 +1,14 @@
 <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!DOCTYPE html>
 <html lang="pt-br">
 <head>
+
 	<meta charset="UTF-8">
 	<meta name="description" content= "Site do Coldigo Gealadeiras">
 	<meta name="keywords" content= "Geladeiras, Frost-free, refrigeração">
@@ -14,8 +22,8 @@
 <body>
 	<header>
 	</header>
-	<h2 style="text-align: center;">Registro de produtos</h2>
-<form name="frmAddProduto" id="addProduto" class="frmInserir">
+	<h2>Registro de produtos</h2>
+<form name="frmAddProduto" id="addProduto" class"frmInserir">
 	<fieldset>
 		<legend>Novo produto</legend>
 		<table>

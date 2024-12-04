@@ -126,7 +126,7 @@ section h2, section h3{
 	width: 500px;
 }
 
-.frmInserir label{
+.frmInserir, label{
 	width: 200px;
 }
 

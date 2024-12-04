@@ -14,7 +14,7 @@
 <body>
 	<header>
 	</header>
-	<h2 style="text-align: center;">Registro de produtos</h2>
+	<h2>Registro de produtos</h2>
 <form name="frmAddProduto" id="addProduto" class="frmInserir">
 	<fieldset>
 		<legend>Novo produto</legend>
